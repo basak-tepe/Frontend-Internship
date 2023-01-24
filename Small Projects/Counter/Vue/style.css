@@ -1,0 +1,41 @@
+body{
+    background-color: #FDA5A2;
+    font-family: 'IBM Plex Sans', sans-serif
+}
+
+h1{
+    text-align: center;
+    color: maroon;
+}
+
+#app{
+    background-color: #FBAEF1;
+    border-radius: 10px;
+    outline: 40px;
+    outline-color: antiquewhite;
+    outline-style: double;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    /*centering
+    */
+    top:50%;
+    left:50%;
+    position: fixed;
+    /* bring your own prefixes */
+    transform: translate(-50%, -50%);
+}
+
+
+button{
+    background-color: wheat;
+    border-radius: 5px;
+    font-family: 'IBM Plex Sans', sans-serif
+}
+
+#num{
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+    display: flex;
+}

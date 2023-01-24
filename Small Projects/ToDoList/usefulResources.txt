@@ -1,0 +1,13 @@
+MDN (Documentation) https://developer.mozilla.org/en-US/
+Colors https://color.adobe.com/tr/create/color-wheel
+Fonts https://fonts.google.com/knowledge
+Sandbox https://codepen.io/trending
+Roadmap https://roadmap.sh/frontend/
+CSS Resource https://cssgenerator.org/
+Design https://www.figma.com/
+JS Overwiew https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview
+JS Exercises https://learnjavascript.online/app.html
+
+Tutorials
+Basic HTML, JS, CSS https://www.youtube.com/watch?v=zJSY8tbf_ys&t
+Vue.js https://www.youtube.com/watch?v=FXpIoQ_rT_c
